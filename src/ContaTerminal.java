@@ -2,6 +2,12 @@ import java.math.BigDecimal;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author Eduardo Freitas Machado
+ *  Esta classe representa uma aplicação de terminal para gerenciar contas bancárias.
+ *  Ela lê dados de entrada do usuário e exibe uma mensagem formatada com as informações da conta.
+ *  Ela foi feita em razão do Bootcamp da Santander em parceira com a Digital Innovation One (DIO) no desafio 'Simulando uma conta Bancária Através do Terminal/Console'
+ */
 public class ContaTerminal {
 
     public static void main(String[] args) {
